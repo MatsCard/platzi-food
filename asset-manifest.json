@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/platzi-food/static/css/main.fd4f18a6.chunk.css",
-    "main.js": "/platzi-food/static/js/main.5387233b.chunk.js",
-    "main.js.map": "/platzi-food/static/js/main.5387233b.chunk.js.map",
+    "main.js": "/platzi-food/static/js/main.9e1b01f8.chunk.js",
+    "main.js.map": "/platzi-food/static/js/main.9e1b01f8.chunk.js.map",
     "runtime-main.js": "/platzi-food/static/js/runtime-main.abecda5d.js",
     "runtime-main.js.map": "/platzi-food/static/js/runtime-main.abecda5d.js.map",
     "static/css/2.acac363f.chunk.css": "/platzi-food/static/css/2.acac363f.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.acac363f.chunk.css",
     "static/js/2.86b9376c.chunk.js",
     "static/css/main.fd4f18a6.chunk.css",
-    "static/js/main.5387233b.chunk.js"
+    "static/js/main.9e1b01f8.chunk.js"
   ]
 }
