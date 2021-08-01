@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/platzi-food/static/css/main.fd4f18a6.chunk.css",
+    "main.js": "/platzi-food/static/js/main.5387233b.chunk.js",
+    "main.js.map": "/platzi-food/static/js/main.5387233b.chunk.js.map",
+    "runtime-main.js": "/platzi-food/static/js/runtime-main.abecda5d.js",
+    "runtime-main.js.map": "/platzi-food/static/js/runtime-main.abecda5d.js.map",
+    "static/css/2.acac363f.chunk.css": "/platzi-food/static/css/2.acac363f.chunk.css",
+    "static/js/2.86b9376c.chunk.js": "/platzi-food/static/js/2.86b9376c.chunk.js",
+    "static/js/2.86b9376c.chunk.js.map": "/platzi-food/static/js/2.86b9376c.chunk.js.map",
+    "static/js/3.6e01bd5a.chunk.js": "/platzi-food/static/js/3.6e01bd5a.chunk.js",
+    "static/js/3.6e01bd5a.chunk.js.map": "/platzi-food/static/js/3.6e01bd5a.chunk.js.map",
+    "index.html": "/platzi-food/index.html",
+    "static/css/2.acac363f.chunk.css.map": "/platzi-food/static/css/2.acac363f.chunk.css.map",
+    "static/css/main.fd4f18a6.chunk.css.map": "/platzi-food/static/css/main.fd4f18a6.chunk.css.map",
+    "static/js/2.86b9376c.chunk.js.LICENSE.txt": "/platzi-food/static/js/2.86b9376c.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/platzi-food/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/logo-w.d9662224.svg": "/platzi-food/static/media/logo-w.d9662224.svg",
+    "static/media/restaurant.9ef4a7fe.jpg": "/platzi-food/static/media/restaurant.9ef4a7fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abecda5d.js",
+    "static/css/2.acac363f.chunk.css",
+    "static/js/2.86b9376c.chunk.js",
+    "static/css/main.fd4f18a6.chunk.css",
+    "static/js/main.5387233b.chunk.js"
+  ]
+}
