@@ -9,6 +9,7 @@ function App() {
       <Switch>
         <Layout>
           <Route exact path="/" component={Home} />
+          <Route exact path="/platzi-food" component={Home} />
         </Layout>
       </Switch> 
     </BrowserRouter>
